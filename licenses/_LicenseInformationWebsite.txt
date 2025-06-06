@@ -1,0 +1,31 @@
+Open Source License Information
+
+Overview:
+In this product, wenglor uses software code created by third parties. This may include software code which is subject to the GNU General Public License Version 2 (“GPLv2”), GNU General Public License Version 3 (“GPLv3”), GNU Lesser General Public License 2.1 (“LGPLv2.1”), and/or software code which is subject to other licensing terms (jointly “Third-Party-Software”).
+This software manifest indicates which Third-Party-Software is used in the product and which license terms apply in each case to the Third-Party-Software included in the product. The wording of these license terms can be downloaded on the wenglor website https://www.wenglor.com/en/License/s/License via the link for this product or its product group, saved on an end device and then accessed. Some selected license terms are additionally available be-low under “License Terms”.
+
+Access to source code of Third-Party-Software:
+Where the license terms of a Third-Party-Software provide for the right of access to the source code of the respective Third-Party-Software (including, but not limited to GPLv2, GPLv3 and LGPLv2.1):
+• you can download the source code of this Third-Party-Software for this product on the wenglor website https://www.wenglor.com/en/License/s/License via the link for this product or its product group; and
+• in addition, we will provide the source code of the respective Third-Party-Software to everyone on a CD-ROM or a similar data carrier against reimbursement of reasonable postage costs. This offer is valid for a period of three years from the date of shipment of the product on which the Third-Party-Software is located and/or from the date of downloading the Third-Party-Software from wenglor’s website. Where the license terms provide for a longer period, such longer period applies. In the event that you wish to obtain the source code under the aforementioned condi-tions, please notify wenglor of this in writing to the address given below or by e-mail to info@wenglor.com and provide wenglor with the name and address so that the source code can be sent:
+
+        wenglor sensoric elektronische Geräte GmbH
+        wenglor Straße 3
+        88069 Tettnang
+        Germany
+        Phone:  +49 7542 5399 0
+        Fax:    +49 7542 5399 988
+        E-Mail: info(at)wenglor.com
+
+Legend:
+Package Name       The name of the application or files
+Version            Version of the application or files
+License            Name of the license or licenses that apply to the Package.
+Obtained from      This field specifies where wenglor obtained the Package from. It may be a URL to an Open Source site, a 3rd party company name or wenglor. If this field contains a link to an Open Source package, the date it was downloaded is also recorded.
+
+Packages installed:
+Package Name  | Version  |  License  | Obtained from
+qt            | 5.13.2   |  LGPLv3   | https://github.com/qt/qt5/tree/v5.13.2
+tinyxml2      |    2     |   zlib    | https://github.com/leethomason/tinyxml2
+neosmart      |          |    MIT    | https://github.com/NeoSmart/PEvents
+
